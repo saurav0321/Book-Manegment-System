@@ -1,4 +1,4 @@
-//displays the latest books by fetching data from a database and outputs the results in an HTML format.
+
 <?php
 include("includes/header.php");
 ?>
